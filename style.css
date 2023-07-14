@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    padding: 40px;
+}
+
+.image{
+    width: 600px;
+    
+}
+.image img{
+    width: 600px;
+}
+.text{
+    width: 300px;
+  
+}
+.text h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+.btn{
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: black;
+    color: aliceblue;
+}
